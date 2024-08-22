@@ -1,6 +1,6 @@
 # Widget Dashboard
 
-Welcome to the Widget Dashboard project! This application allows users to manage and interact with widgets in a customizable dashboard.
+Welcome to the Widget Dashboard project! This application enables users to efficiently manage and interact with widgets within a customizable dashboard environment.
 
 ## Technologies Used
 
